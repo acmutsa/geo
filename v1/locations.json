@@ -1,3 +1,17 @@
 {
-    
+    "$schema": "https://geo.acmutsa.dev/v1/schema.json",
+    "main-campus": [
+        {
+            "name": "Applied Engineering and Technology Building",
+            "abbrev": "AET",
+            "latitude": 29.581314591886215,
+            "longitude": -98.61789207509422
+        },
+        {
+            "name": "Arts Building",
+            "abbrev": "ART",
+            "latitude": 29.58313488872436,
+            "longitude": -98.61753852314855
+        }
+    ]
 }
