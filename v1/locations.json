@@ -122,10 +122,11 @@
       "longitude": -98.6302864697027
     },
     {
-      "name": "HEB Student Union",
+      "name": "H-E-B Student Union",
       "abbrev": "HSU",
       "latitude": 29.58305117878825,
-      "longitude": -98.62029885464122
+      "longitude": -98.62029885464122,
+      "nicknames": ["H-E-B Student Union"]
     },
     {
       "name": "Intercollegiate Athletics Building",
@@ -143,7 +144,8 @@
       "name": "Student Union",
       "abbrev": "SU",
       "latitude": 29.58404993304287,
-      "longitude": -98.6201789505338
+      "longitude": -98.6201789505338,
+      "nicknames": ["The Retama"]
     },
     {
       "name": "John Peace Library",
