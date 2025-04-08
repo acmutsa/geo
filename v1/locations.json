@@ -108,6 +108,42 @@
       "abbrev": "XAG",
       "latitude": 29.582163948376746,
       "longitude": -98.61911126939593
+    },
+    {
+      "name": "Bosque Street Building",
+      "abbrev": "BOS",
+      "latitude": 29.585063450820495,
+      "longitude": -98.62123815631463
+    },
+    {
+      "name": "Central Receiving & Warehouse",
+      "abbrev": "CRW",
+      "latitude": 29.583155236914454,
+      "longitude": -98.6302864697027
+    },
+    {
+      "name": "HEB Student Union",
+      "abbrev": "HSU",
+      "latitude": 29.58305117878825,
+      "longitude": -98.62029885464122
+    },
+    {
+      "name": "Intercollegiate Athletics Building",
+      "abbrev": "IAB",
+      "latitude": 29.58312420140861,
+      "longitude": -98.62164895185929
+    },
+    {
+      "name": "Main Building",
+      "abbrev": "MB",
+      "latitude": 29.58456428607247,
+      "longitude": -98.61672999053695
+    },
+    {
+      "name": "Student Union",
+      "abbrev": "SU",
+      "latitude": 29.58404993304287,
+      "longitude": -98.6201789505338
     }
   ]
 }
