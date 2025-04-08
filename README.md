@@ -4,7 +4,7 @@ An up-to-date list of all UTSA buildings and their data. It is hosted via Github
 
 ## Data Sources
 
-- UTSA Campus Maps for location listings
+- [UTSA Campus Maps](https://geo.acmutsa.dev/sources) for location listings
 - Google Maps for latitude and longitude data
 
 ## Contributing
