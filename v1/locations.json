@@ -144,6 +144,12 @@
       "abbrev": "SU",
       "latitude": 29.58404993304287,
       "longitude": -98.6201789505338
+    },
+    {
+      "name": "John Peace Library",
+      "abbrev": "JPL",
+      "latitude": 29.584425201627337,
+      "longitude": -98.61760231337813
     }
   ]
 }
