@@ -90,6 +90,24 @@
       "abbrev": "SSC",
       "latitude": 29.585081801617157,
       "longitude": -98.61953939242773
+    },
+    {
+      "name": "Bauerle Road Garage",
+      "abbrev": "BRG",
+      "latitude": 29.58606626682363,
+      "longitude": -98.61690197981
+    },
+    {
+      "name": "Tobin Avenue Garage",
+      "abbrev": "TAG",
+      "latitude": 29.58665480817254,
+      "longitude": -98.62073155424427
+    },
+    {
+      "name": "Ximenes Avenue Garage",
+      "abbrev": "XAG",
+      "latitude": 29.582163948376746,
+      "longitude": -98.61911126939593
     }
   ]
 }
