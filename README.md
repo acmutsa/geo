@@ -2,6 +2,10 @@
 
 An up-to-date list of all UTSA buildings and their data. It is hosted via Github Pages and free to use at [geo.acmutsa.dev](https://geo.acmutsa.dev).
 
+## Usage
+
+Data can be fetched or copied from [geo.acmutsa.dev/v1/locations.json](https://geo.acmutsa.dev/v1/locations.json).
+
 ## Data Sources
 
 - [UTSA Campus Maps](https://geo.acmutsa.dev/sources) for location listings
